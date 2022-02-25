@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvarning to England: or, The nations looking-glass Wherein they may plainly see what are those good things, that are with-held by the sins of the nations. Also, vvhat are those national sins, which withold good things from us. Some of these have been lately endeavoured to be surprest by act of Parliament. To which is added, An earnest exhortation, to break off our sins by a timely repentance, least the Lord break forth in wrath against us. By Robert Russel, in Sussex, author of the Book of the unpardonable sin against the Holy Ghost. Licensed according to order.</title>
+            <author>Russel, Robert, fl. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57946</idno>
+            <idno type="STC">Wing R2348D</idno>
+            <idno type="STC">ESTC R220004</idno>
+            <idno type="EEBO-CITATION">99831443</idno>
+            <idno type="PROQUEST">99831443</idno>
+            <idno type="VID">35906</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35906)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2096:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvarning to England: or, The nations looking-glass Wherein they may plainly see what are those good things, that are with-held by the sins of the nations. Also, vvhat are those national sins, which withold good things from us. Some of these have been lately endeavoured to be surprest by act of Parliament. To which is added, An earnest exhortation, to break off our sins by a timely repentance, least the Lord break forth in wrath against us. By Robert Russel, in Sussex, author of the Book of the unpardonable sin against the Holy Ghost. Licensed according to order.</title>
+                  <author>Russel, Robert, fl. 1692.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare on London-bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date suggested by Wing.</note>
+                  <note>Copy stained; closely trimmed with slight loss of print.</note>
+                  <note>Incorrect title and Wing number in reel guide.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sin --  Early works to 1800.</term>
+               <term>Repentance --  Early works to 1800.</term>
+               <term>Religion and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35906:1" rendition="simple:additions"/>
+            <p>A VVARNING TO <hi>England:</hi> OR, THE Nations Looking-Glaſs.</p>
+            <p>WHEREIN They may plainly ſee what are thoſe Good Things, that are with-held by the ſins of the Nation.</p>
+            <p>ALSO, VVhat are thoſe National Sins, which with<g ref="char:EOLhyphen"/>hold Good Things from us. Some of theſe have been lately endeavoured to be ſur<g ref="char:EOLhyphen"/>preſt by Act of Parliament.</p>
+            <p>
+               <hi>To which is Added,</hi> An earneſt Exhortation, to break off our Sins by a timely Repentance, leaſt the Lord break forth in wrath againſt us.</p>
+            <p>By <hi>Robert Ruſſel,</hi> in <hi>Suſſex,</hi> Author of the Book of the Unpardonable Sin againſt the Holy Ghoſt.</p>
+            <q>
+               <bibl>
+                  <hi>Hoſea 4.2.</hi>
+               </bibl>
+               <p>
+                  <hi>By</hi> Swearing, Lying, Killing, and Stealing, the land mourns.</p>
+            </q>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>J. Blare</hi> on <hi>London-Bridge.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35906:2"/>
+            <pb n="3" facs="tcp:35906:2"/>
+            <head>A Warning to <hi>ENGLAND,</hi> &amp;c.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Jer. 5.25.</hi>
+                  </bibl>
+                  <p>Your Iniquities have turned away theſe things: And your Sins have with-holden good things from you.</p>
+               </q>
+            </epigraph>
+            <p>AMongſt the many Books, that I have for<g ref="char:EOLhyphen"/>merly wrote, I think it now very neceſ<g ref="char:EOLhyphen"/>ſary, at laſt, to write a Book, whereby people may be <hi>convinced</hi> of their <hi>evil ways,</hi> and <hi>wic<g ref="char:EOLhyphen"/>ked practices;</hi> hoping that by the ſpecial Bleſ<g ref="char:EOLhyphen"/>ſing of God, the Inhabitants of this Nation may reform their lives, and turn to God by <hi>unfeigned Repentance,</hi> ſo that God may avert thoſe <hi>judgments</hi> which the ſins of this Nation do daily cry aloud for, and are continually hanging over our heads.</p>
+            <p>Many there are (as I have told you in my <hi>book</hi> of <hi>Joſhua's reſolution to ſerve the Lord</hi>) complain of the badneſs of the times, becauſe trading is ſo low, money ſo dead, taxes ſo great, and the wars con<g ref="char:EOLhyphen"/>tinuing thus long, ſtill expecting the end of the wars, and the coming of <hi>good peaceable times.</hi> But Friends, deceive not your ſelves, you cannot ex<g ref="char:EOLhyphen"/>pect good peaceable times, ſo long as <hi>wickedneſs</hi> abounds ſo in the land, as it doth: For I verily think, that ſince the time that <hi>England</hi> has been a Nation, there never was more <hi>prophaneneſs</hi> and <hi>un<g ref="char:EOLhyphen"/>godlineſs</hi> than there is now; there never was more <hi>ſwearing, curſing, cheating, oppreſſing, lying, pro<g ref="char:EOLhyphen"/>phaning the Sabbath,</hi> and all manner of <hi>uncleaneſs,</hi> as there reigns amongſt us in theſe our days: this Land certainly is like another <hi>Sodom,</hi> for wicked<g ref="char:EOLhyphen"/>neſs; therefore inſtead of hoping for <hi>better times,</hi>
+               <pb n="4" facs="tcp:35906:3"/>we have juſt cauſe to fear that (except there be a <hi>timely Reformation</hi> amongſt us) ſome ſader ſtroak of <hi>Vengeance</hi> will fall on this nation, than yet has befallen us. People complain becauſe the times are bad; and becauſe theſe troubles are continu<g ref="char:EOLhyphen"/>ed ſo long among us; whereas they themſelves are the cauſe, 'tis their ſins that ſtands as a cloud, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tops <hi>good things</hi> from deſcending upon them: As the Prophet tells us in the words of my Text; <hi>Your Iniquities have turned away theſe things, and your ſins have with-helden good things from you.</hi>
+            </p>
+            <p>The Doctrin which I ſhall raiſe from <hi>theſe words</hi> ſhall be this: <hi>That it is the ſins of a people or nation, that keeps back Mercy, and hinders good things from coming upon it.</hi> This whole chapter contains a diſcovery of God's <hi>judgments</hi> upon the <hi>Jews</hi> for their tranſgreſſions; the ſubſtance of which is ſum'd up in ſhort in the Text, <hi>Your Iniquities have turned away theſe things, and your ſins have with-hol<g ref="char:EOLhyphen"/>den good things from you.</hi> Now from the Text we have conſiderable theſe two things: <hi>Firſt,</hi> To ſhew you what are thoſe good things which ſin doth with-hold from a people or nation. <hi>Second<g ref="char:EOLhyphen"/>ly,</hi> What are thoſe ſins which do keep back mer<g ref="char:EOLhyphen"/>cy, and hinders good things from coming unto a people or nation: And ſo I ſhall conclude all with a word or two of Application.</p>
+            <p>I begin with the firſt, to ſhew you what are thoſe good things which ſin doth with-hold from a people or nation: Now thoſe good things that ſin doth with-hold, I ſhall reduce into theſe three Ranks, Firſt, <hi>Spiritual good things;</hi> Secondly, <hi>Tem<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> good things,</hi> Thirdly, <hi>National good things.</hi>
+            </p>
+            <pb n="5" facs="tcp:35906:3"/>
+            <p>Firſt, Sin doth with-hold from a people or na<g ref="char:EOLhyphen"/>tion ſpiritual good things: Now thoſe ſpiritual good things, which ſin doth with-hold from a peo<g ref="char:EOLhyphen"/>ple, are ſuch as the pardon and forgiveneſs of all their ſins; the ſpecial love and favour of God through Jeſus Chriſt, revealed to their ſouls, in the full and free pardon of their ſins; the ſaving graces of God's ſpirit to change them and renew them; theſe are thoſe ſpecial and excellent good things which ſin doth commonly deprive a people of. God has in his great mercy to our ſouls gi<g ref="char:EOLhyphen"/>ven us all his ordinary ways and means, whereby theſe ſpiritual bleſſings might be procured; he has given us his <hi>Word,</hi> his <hi>Goſpel,</hi> his <hi>Miniſters,</hi> his <hi>Day,</hi> and <hi>Ordinances.</hi> Now in the careful and di<g ref="char:EOLhyphen"/>ligent uſe of theſe means, God has promiſed to give his Son, and with him all the ſaving graces of his ſpirit; b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if a people will ſlight and con<g ref="char:EOLhyphen"/>temn the Ordinance of God, and will love, and de<g ref="char:EOLhyphen"/>light in their ſins, and follow the luſt and carnal deſires of their own hearts; God many times in juſtice leaves them to their own hearts luſt, that becauſe they love and delight to be wicked and unclean, and will be ſo, and never care to ſeek to the Lord by faſting and prayer, and by uſing the means, preſcribed in his word, for the graces of his ſpirit, to change, and renew them: Therefore it is God's order and way, in juſtice, to give ſuch over to obdurancy, and hardneſs of heart, ſo that they will be wicked and unclean ſtill, <hi>For this cauſe,</hi> ſaith the Apoſtle, <hi>Rom.</hi> 1. <hi>God gave them up to vile affections, and to uncleanneſs, to follow the do<g ref="char:EOLhyphen"/>ſires of their own hearts.</hi> Thus God dealt with his
+<pb n="6" facs="tcp:35906:4"/>own people the <hi>Jews, Pſa.</hi> 81.12. that becauſe they would not hearken to his voice, and would have none of him, therefore he gave them up to their own luſts, and they walked in their own counſel. Friends, it is our ſins, our wilful fins, our continued rebellion againſt God, that hinders ſpiritual good things from deſcending into our own ſouls, it is our delighting and living in ſin that hinders our prayers from being granted, and that hinders our ſervices from being accepted: <hi>If I regard iniquity in my heart, the Lord will not hear me.</hi> ſaith <hi>David, Pſa.</hi> 66.18. God declares him<g ref="char:EOLhyphen"/>ſelf not only willing, but able to beſtow the choi<g ref="char:EOLhyphen"/>ceſt of his bleſſings upon thoſe that ſeek him in the uſe of means, <hi>Iſa.</hi> 59.1. <hi>Behold, the Lords hand is not ſhortened that it cannot ſave, neither is his ear hea<g ref="char:EOLhyphen"/>vy that it cannot hear; But,</hi> ſaith the Prophet, in ver. 2. <hi>your iniquities have ſeparated between you and your God, and your ſins hath hid his face from you that he will not hear.</hi> It is a peoples ſins that with-holds good things from them, even <hi>ſpiritual good things.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The ſins of a people or nation, keeps back from them temporal good things alſo; our bleſſed Saviour has promiſed, <hi>Mat.</hi> 6. that if we <hi>ſ ek firſt the Kingdom of God and the Righteouſneſs thereof,</hi> that then <hi>all outward good things ſhall be ad<g ref="char:EOLhyphen"/>ded</hi> unto us. But our ſeeking to pleaſe the fleſh, and to ſatisfie our luſt, and living in ſinful ways, this hinders the ſtream of God's bleſſing from de<g ref="char:EOLhyphen"/>ſcending upon this our land. Have we not ſeen within this year or two, ſeveral tokens of God's wroth againſt the inhabitants of this land, for their u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dly doings, even in keeping back from
+<pb n="7" facs="tcp:35906:4"/>us theſe outward good things, which we have ex<g ref="char:EOLhyphen"/>pected, ſome times God ſeemed to manifeſt the to<g ref="char:EOLhyphen"/>kens of his anger, by ſtopping the influences of the Heavens, and threatning to dry up our Corn and Fruits, by ſending of a drought upon the land; at other times, when our Corn has been come to per<g ref="char:EOLhyphen"/>fection and ripeneſs, then God was pleaſed to ma<g ref="char:EOLhyphen"/>nifeſt the tokens of his anger in threatning to de<g ref="char:EOLhyphen"/>ny us the enjoyment of it, by ſending of exceſſive Ruins in the time of harveſt; and now this laſt year it pleaſed Almighty God, as a token of his anger againſt our evil doing, to ſend a blaſt upon our Corn. Friends it is our ſins, our iniquities, that procures theſe judgments; Beloved Friends, let us not murmur at God's dealings with us, but rather let us admire his patience &amp; bounty toward us, in that he hath but only ſent to us the tokens of his anger and wrath, the leaſt mercy that we receive at his hands is more than we deſerve: If we conſider what <hi>oppreſſion, cheating, lying, ſwearing, curſing, drunkenneſs,</hi> and <hi>uncleanneſs,</hi> reigns in this Nation, we have reaſon to wonder at God's pati<g ref="char:EOLhyphen"/>ence and long ſuffering towards us, in that he bares with us ſo long, and doth not ſend a Famine, or ſome utter deſtruction. Let us conſider, that it is our ſins and evil doings that with holds the Rain from coming in its ſeaſon, and cauſes a drought upon the Land; it is our ſins that brings violent and unſeaſonable floods of Water to deſtroy the fruits of the earth; it is our ſins and iniquities that brings a blaſt and mildew upon our Corn and Fruits. O therefore let every one of us turn from our ways and evil doings, if ever we would delive
+<pb n="8" facs="tcp:35906:5"/>God to turn from his fierce indignation, that is gone forth againſt us, but I fear there may be as juſt a complaint taken up againſt the inhabitants of this Nation, as there was againſt the <hi>Jews</hi> in a verſe or two before the Text, <hi>That this people hath a revolt<g ref="char:EOLhyphen"/>ing and rebe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ious heaert; neither ſay they in their heart Let us now fear the Lord our God, that giveth us both the former and the latter Rain in its ſeaſon, he reſer<g ref="char:EOLhyphen"/>veth unto us the appointed Weeks of the harveſt; But</hi> (ſaith the text) <hi>your iniquities have turned away theſe things from you, and your ſins have with-holden good things from you,</hi> even temporal good things.</p>
+            <p>
+               <hi>Thirdly,</hi> and laſtly, The ſins of a people or nati<g ref="char:EOLhyphen"/>on keeps back and with holds from them National Good things. When God's judgments hangs over a people or nation; when wars, troubles and con<g ref="char:EOLhyphen"/>fuſion are abroad; and when their Enemies are at their backs ready to invade them; then when the ſame people go onſtubbornly &amp; perverſely in their wicked courſes, and will not be reformed; and when God is working mercy and deliverance for them, and they then take the more liberty to wol<g ref="char:EOLhyphen"/>low in their abominations, and to ſin the more a<g ref="char:EOLhyphen"/>gainſt the Lord, and ſpurn againſt his mercies; theſe doings makes themſelves unſit for mercy, and do as it were ſtay the hand of God, and ſtop him in his proceedings. The Lord our God is a <hi>God of Marcy,</hi> it is his <hi>Nature to ſhew mercy,</hi> and to <hi>work about deliverances;</hi> but yet a wicked people many times pull down Judgments upon thier own heads, by their <hi>ungodly</hi> and <hi>wicked doings.</hi> Alas how, loath is <hi>God to deſtrey a people or nation, if there be any probability that they will at laſt Repent,</hi>
+               <pb n="9" facs="tcp:35906:5"/>and turn from their evil ways. How often did the Lord's own people <hi>Iſrael</hi> provoke him unto wrath by their many Rebellions againſt him, and yet the Lord was gracious towards them and ſpa<g ref="char:EOLhyphen"/>red them, and would not pour out all his wrath; one time when they had provoked him ſo much by their ſins that God was about to deſtroy them, then <hi>Muſes ſtood before him in the broach, leaſt he ſhould deſtroy them;</hi> At another time, when the people had <hi>provokea</hi> the Lord by their Inventions, he ſent the plague among them; the Lord was graciouſly pleaſed upon the prayers of <hi>Phinchas</hi> to Repent of that evil, and remove his ſtroak from them, <hi>Pſal.</hi> 106. <hi>Yea, not withſtanding they provoked him time after time with their Rebellions, yet he wrought many deliverances for them.</hi> But yet conſider this, the Lord did not always bear with them, his patience was at laſt worn out, his long<g ref="char:EOLhyphen"/>ſufferance at laſt had an end, he at laſt was provo<g ref="char:EOLhyphen"/>ked to ſware <hi>in his wrath that they ſhould never enter intohis reſt.</hi> We read that when God ſpeaks of a ſtubborn &amp; rebellions people, he tells them <hi>that h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is weary of Repenting;</hi> thus he ſpeaks to his own people here, the people of <hi>Jeruſalem, Jer.</hi> 15.6 After their many and long <hi>provocations,</hi> and wea<g ref="char:EOLhyphen"/>rying of his patience: <hi>Who ſhall have pitty upon thee O</hi> Jeruſalem? <hi>who ſhall bemoan thee? thou haſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> forſaken me, ſaith the Lord, thou art gone backward therefore will I ſtretch out my hand against thee to do stroy thee, I am weary of repenting, I am weary of Re<g ref="char:EOLhyphen"/>penting.</hi> Behold here how the Lord ſpeaks after the manner of Men, when the Lord is pleaſed b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his providencial diſpenſation to threaten a people <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:35906:6"/>tokens of his wrath and indignation again them, and then in the midſt of Judgment thinks on mer<g ref="char:EOLhyphen"/>cy, and ſo withdraws his hand, and forbears to ſtrike, &amp; works about deliverance for them, then the Lord is ſaid to redent; but then after a long time, after many repentings of God, after many turns of providence, if that people or nation will not turn from their evil ways, but will ſtill con<g ref="char:EOLhyphen"/>tinue reſolutely and obſtinately in their ſins, tho' they have many warnings, threatnings, mercies, and judgments, until Gods patience is quite worn out, then God is ſaid to be weary of Repenting, thus it was with Gods people of old, and thus God ſeems to be dealing with the Inhabitants of this nation. When God has many times ſent to<g ref="char:EOLhyphen"/>kens of his wrath and diſpleaſure againſt us for our ſins, and has been ready to ſtrike, then the Lord has been pleaſed graciouſly to call back his ſhroaks, and has ſeemed to repent of the evil he was about to bring upon us; thus God did graci<g ref="char:EOLhyphen"/>buſly deal with us in the days of Queen <hi>Mary,</hi> when many thouſand poor ſouls ſuffered Martyr<g ref="char:EOLhyphen"/>dom, and when the whole Nation was next door to ruine and deſtruction, then the Lord ſeemed to repent, and wonderſully ſtept in for our delive<g ref="char:EOLhyphen"/>rance. Thus in the time of King <hi>James</hi> the II. Gods hand of Juſtice was then up ready to ſtrike the final ſtroak, then there ſeemed in all outward appearance to be nothing but utter Ruine and de<g ref="char:EOLhyphen"/>ſtruction, but yet in the very nick of time, the Lord ſeemed to repent of the evil that he was a bringing upon this nation, and in the midſt of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dgment thought upon Mercy, and mercifully
+<pb n="11" facs="tcp:35906:6"/>brought in our gracious Soveraign King, <hi>William,</hi> to be the happy Inſtrument of our deliverance And many a time when our malicious enemies ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> been a plotting &amp; working about our deſtruction God has been a working about our deliverance, &amp; bringing to nought their wicked devices, but ye<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> let us aſſure our ſelves, that if we donot in time re<g ref="char:EOLhyphen"/>pent &amp; turn from the evil of our ways but continua ſtill provoking him to wrath, his <hi>Repentings</hi> will have an end, his <hi>patience</hi> will be worn out, &amp; the he will pour out his wrath to the utmoſt, and de<g ref="char:EOLhyphen"/>ſtroy us utterly, for if after all his ſmiting of us, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> delivering of us, we will ſtill walk contrary to him He will walk contrary to us, &amp; will puniſh us ſeve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> times more for our ſins, until he hath conſume us, as he hath threatened, <hi>Deut.</hi> 26. Therefore now, whilſt the I ord is going forth againſt us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a way of wrath, it would be our wiſdom to me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him by true and unfeigned Repentance, and the he will meet us in love and mercy, and delight <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do us good, for God declares himſelf the Lor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God gracious and merciful, ſlow to anger, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> great kindneſs, and repenteth him of the evil.</p>
+            <p>Alas, how loath is God to deſtroy a people <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nation, if there be any hopes at all of their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> turn: O how doth the Lord expoſtulate with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>phraim,</hi> when he is going to deſtroy them, h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> doth his Bowels ſeem to be troubled, when he about to ſmite, ſaying: <hi>How ſhall I give thee <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Ephraim? <hi>how ſhall I deliver thee</hi> I ſrael? <hi>how ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I make thee as</hi> Admah? <hi>how ſhall I ſet thee as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> boim? <hi>my heart is turned within me, my Repent is are kindled together; I will not execute the fiercen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="12" facs="tcp:35906:7"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mine anger; I will not return to deſtroy</hi> Ephraim, <hi>For I am</hi> God, <hi>and not Man, He ſea</hi> 11.8, 9. Thus <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere, when Popery and Slavery was coming upon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s apace, and our gracious King <hi>William</hi> was ſtep<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in for our deliverance, then the Lord ſeemed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be bemoaning of <hi>England,</hi> ſaying: <hi>How ſhall I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive thee up</hi> England? <hi>how ſhall I deliver thee up <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to the hands of thine Enemies; my Bowels are tur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed within me, I will not deſtroy</hi> England. O there<g ref="char:EOLhyphen"/>fore Friends, let us not run on in ſin after ſuch a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate as we do, offending and grieving ſo gracious <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, leſt his patience ſhould be quite worn out, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd he be weary of Repenting, &amp; ſo be provoked <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o deliver us over into the hands of our Enemies, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd conſume us utterly. Conſider what great <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings the Lord hath already done for this ſinful <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation, and greater Bleſſings he would yet beſtow <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon us, if our ſins did not ſtop him. Almighty God ſeems now to be expoſtulating with <hi>England,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s once he did with his people of old, <hi>Pſa.</hi> 81.13, 14, 15. <hi>O that my people had hearkened unto me, and</hi> England <hi>had walked in my ways, I ſhould ſoon have subdued their Enemies, and turned my hand againſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eir Adverſaries, the haters of the Lord, ſhould have submitted themſelves unto them, he would have fed <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em, and ſatisfied them with the fineſt of the Wheat, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d honey out of the Rocks.</hi> O that <hi>England</hi> would once repent and turn from her evil ways! how <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ickly would the Lord turn away his anger from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>? how quickly would he put an end to our wars and Troubles? how ſoon would he bring <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a laſting Peace and Tranquility amongſt us, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d would rejoice over us to do us good; but it
+<pb n="13" facs="tcp:35906:7"/>is the ſins of a people or nation that withhold good things from them, even national good things.</p>
+            <p>Thus I have diſpatcht the firſt part of my text which was to ſhew you what are thoſe good thing that the ſins of a nation or people do with-hold from them, they are Spiritual Good Things, Tem<g ref="char:EOLhyphen"/>poral Good Things, and National Good Things</p>
+            <p>
+               <hi>Secondly,</hi> The ſecond part of my Text is to ſhe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you what are thoſe common ſins that with-hold Good Things from a People or Nation: No<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Prophet <hi>Hoſea</hi> gives us a Catalogue of ſome <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, <hi>Hoſea <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> 2. <hi>By Swearing, &amp; Lying, &amp; Killing &amp; Stealing, &amp; committing Adultery, they break o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and blood touches blood, therefore ſhall the Land mour<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Now the ſins of <hi>England</hi> which with-holds Good Things from them, are ſuch as theſe: I ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> name ſome few of them, which are the chief, Firſt the firſt ſin which I ſhall here mention, that with holds Good Things from a Nation, is Swearin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Curſing. O how dreadful it is to hear <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cked Wretches, when they are drinking in a A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e-houſe, and at other times, belch out the Helliſh Oaths; O it many times makes ones hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ach to hear how they ſwear at almoſt every wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they ſpeak, by the Name of God, by Blood and Wounds, and ſuch like horrible Oaths, notwith<g ref="char:EOLhyphen"/>ſtanding that Act of Parliament which has late come out againſt the ſin of Swearing, yet I cannot ſee that people are much more afraid to ſwear <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Oath, <hi>Surely,</hi> as the Prophet ſaith, <hi>Jer.</hi> 23.10. Be<hi>cauſe of ſwearing the Land mourneth;</hi> And if ev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and mourned under this grievous by
+<pb n="14" facs="tcp:35906:8"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>len, it mourns now at this day, nay, and if Swea<g ref="char:EOLhyphen"/>ring be not bad enough, many in their Rage and Fury fall a curſing of one another, yea, curſing of themſelves too, nay, and that which is worſt of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, many have been heard to curſe themſelves to the pit of Hell, and wiſh damnation upon them<g ref="char:EOLhyphen"/>ſelves. I can tell you of a man, which I ſaw but a little while ago, being a little in drink, I heard him call upon <hi>God to damn his ſoul at almoſt every word he ſpoke.</hi> O what a moſt dreadful Impre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation this is? that people muſt wiſh eternal <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amnation upon themſelves. O Sinner, what if God ſhould indeed take thee at thy word, that as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oon as the word <hi>Damn me</hi> is out of thy mouth, he hould ſend ſome ſudden ſtroak of vengeance or other upon thee, and ſend thee immediately out of this world into Eternal Damnation, I tell thee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nner, it is juſt with God to do it, and indeed thou have great cauſe to expect, every time the like imprecation comes out of thy mouth, that he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould clap the like Judgment immediately upon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y head; &amp; then thou canſt not but acknowledge <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat God hath given thee no worſe than thou didſt wiſh upon thy ſelf, and didſt call upon him for; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay ſome there are that are ſo inclinable to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns of Curſing, and Swearing, and Railing, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vil-ſpeaking, that they infect their Off-ſpring with the like Vices; there poor Children, as ſoon is they come to be of any bigneſs, how quickly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o they learn theſe Helliſh Arts of their parents <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd elders, ſo that in many Towns and Streets where children are playing together, they have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een heard to curſe and ſwear one at another in
+<pb n="15" facs="tcp:35906:8"/>a dreadful manner, and ſome have been heard to call one another all to nought, as Dog, Rogue, and I know not what, as I gave a hint of in my little Book, being a ſecond part for children.</p>
+            <p>Obj. <hi>But many Parents will be ready to ſay, that it is not they that teach their children, but the children learn one of another.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> To this I anſwer: It is true that young ones having a vitious nature, which they brought with them into the world, they are naturely back<g ref="char:EOLhyphen"/>ward to learn any good, but very inclinable to learn evil even one of another; but pray conſider where the foundation lyes all this while, it is the Parents many times are the firſt Inſtructers in e<g ref="char:EOLhyphen"/>vil, we have had in our days many proofs of this, for ſome ungodly Parents have been many times heard to gape at their own children when they would not come at their call, and would not do juſt as they would have them, they have been heard to curſe and ſwear at them, and call them all to nought, and ſo the poor children think that they may uſe the like words and expreſſions one to another, and then if theſe children happen into the company of thoſe children whoſe parents are godly, and who labour to bring them up in the nurture and admonition of the Lord, yet how quickly do they learn vitious and foul language of the others, and ſo by this means ordinarily young ones learn one of another. O Friends, are not your children prone enough to evil of themſelves, but you muſt infuſe ſinful Vices into their corrupted Nature? O you that are parents and governours of children, let me beſeech you to conſider what
+<pb n="16" facs="tcp:35906:9"/>you are doing when you are mouthing at your children, and a uſing foul language in their hear<g ref="char:EOLhyphen"/>ing, that you are a doing your endeavour to in<g ref="char:EOLhyphen"/>fect whole Towns and Families with wicked Vi<g ref="char:EOLhyphen"/>ces, nay, and the whole Nation it ſelf, and ſo ha<g ref="char:EOLhyphen"/>ſten God's wrath and Judgment upon the whole Nation.</p>
+            <p>
+               <hi>Secondly,</hi> Another National Sin, which keeps Good Things from us, is Oppreſſion, Deceit, Treachery, and Unjuſt Dealing, and indeed there is ſo much of theſe ſins reigns in this our Nation, that it is to be feared that Oppreſſion, Treachery and Deceit, will at laſt be the utter Ruine of this Nation: Behold how God complains of his Vine<g ref="char:EOLhyphen"/>yard, the Land of <hi>Iſrael, Iſa.</hi> 5.7. <hi>He looked for Righteouſneſs, and behold Oppreſſion; for Judgment, and behold a cry:</hi> Oh! may not the Lord juſtly complain the like of this Nation? that he looked for Righteouſneſs, Juſtice, and Equity to be in it; and there is nothing in it but Oppreſſion, Unjuſt<g ref="char:EOLhyphen"/>neſs, and Deceit. The poor and needy beg at the Rich Mens doors for Relief, but the moſt had rather conſume pounds upon their Luſt, than to ſpare one half ſhilling for the Relief of the Needy. And many Farmers there are in the Nation, Oh! how do they wiſh for a Dearth, and watch for an opportunity to raiſe the price of their Corn, and thereby oppreſs, and grind the faces of the poor and needy, that they might hoard of Riches unto themſelves, and the poor Laborours, they muſt be oppreſſed of their wages; there are many poor La<g ref="char:EOLhyphen"/>bourers now a days are fain to toil themſelves early and late to get a poor maintainance for
+<pb n="17" facs="tcp:35906:9"/>themſelves and their Families, and in the mean time thoſe that hire them, ſtudy how to abate them in their wages. And likewiſe what a deal of Oppreſſion and Deceit there is amongſt us in buying and ſelling, the Buyer he will Oppreſs the Seller by debaſing his wares, and will not give ſo much as he knows they are worth; and the Sel<g ref="char:EOLhyphen"/>ler he will endeavour to oppreſs the Buyer by ex<g ref="char:EOLhyphen"/>alting his Ware above the worth, and will tell the Buyer that his Wares coſt him more than they really did; and the Buyer crys out, <hi>it is naught, it is naught;</hi> and when he is gone away, then he boaſteth, <hi>Pro.</hi> 20.14. I verily think that there ne<g ref="char:EOLhyphen"/>ver was ſo much Oppreſſion, ſo much Deceit as there is now in theſe days, deceitful wares, de<g ref="char:EOLhyphen"/>ceitful weights, deceitful meaſures, deceitful mo<g ref="char:EOLhyphen"/>ney, and deceitful doings, that ſure it is for our Oppreſſion, Iniuſtice, Treachery and Deceit, that the Lord with-holds good things from us.</p>
+            <p>
+               <hi>Thirdly,</hi> Another <hi>National Sin</hi> is Drunkenneſs, and I think never did this ſin ſo much abound in this Nation as it doth now in theſe our days, ma<g ref="char:EOLhyphen"/>ny men complain that every thing is dear, and that they can hardly get money for their neceſſary uſe, and grutch to ſpare a penny for a deed of Charity, and yet can find ſhillings to conſume in an Ale houſe; many times I have been at places where there has been drinking, playing, ſinging, and ranting almoſt a whole night together, now there is a woe pronounced againſt ſuch, <hi>Iſa.</hi> 5.22. <hi>Woe to them that are mighly to drink Wine, and Mon of ſtrength to mingle ſtrong drink.</hi> O how ſad it in to ſee how Drunkenneſs abounds in every City, in
+<pb n="18" facs="tcp:35906:10"/>every Town and Street in this Nation, O how much precious time is waſted away in Drunken<g ref="char:EOLhyphen"/>neſs, Voluptiouſneſs, and the works of the Fleſh, ſurely theſe ſins of Drunkenneſs, Volupteouſ<g ref="char:EOLhyphen"/>neſs, Fornication, Uncleanneſs, and all other Works of the Fleſh, are a means to with-hold all <hi>good</hi> things from us.</p>
+            <p>
+               <hi>Fourthly,</hi> Another National Sin is neglect of Family Dutys, moſt that are Governours of Fami<g ref="char:EOLhyphen"/>lys ſcarce ſo much <hi>as</hi> pray in their Familys once a Week, they are careful to call upon their Servants to do their work, but never mind them of the con<g ref="char:EOLhyphen"/>cern of their immortal ſouls. There is a ſevere threatning goes againſt ſuch, <hi>Jer.</hi> 10.21. <hi>That the Lord will pour out his fury upon the Heathens that know him not, and upon the Nations that call not an his Name.</hi> But I have wrought ſomething of this in my book of <hi>Joſhuas</hi> Reſolution to ſerve the Lord, therefore I will ſay no more of it here.</p>
+            <p>
+               <hi>Fifthly,</hi> Another National Sin is Unfruitful<g ref="char:EOLhyphen"/>neſs under the means of grace, though they have <hi>Reproof</hi> upon <hi>Reproof,</hi> Sabbath upon Sabbath, Line upon Line, Preceipt upon Preceipt; though they enjoy Sermon Opportunitys, Sacrament Oppor<g ref="char:EOLhyphen"/>tunitys, Praying Opportunitys, yet for the gene<g ref="char:EOLhyphen"/>rality of them they are never the better, they go on in a Cuſtomary Road of Dutys, but take no care to reform their hearts and lives; now we that are unfruitful under all means of grace, what can we expect, but that the Kingdom of Heaven ſhall be taken from us, and given to a Nation, bringing forth the fruit thereof. <hi>And to be cu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> down by the A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Gods judgments, becauſe we are
+<pb n="19" facs="tcp:35906:10"/>but cumbers of the ground, Luke</hi> 13.</p>
+            <p>
+               <hi>Sixthly,</hi> Another National ſin, that I ſhall here mention, is Pride, eſpecially pride in Apparel, and ſure never did this ſin reign ſo much both in City and Country, as it does in our days, and if <hi>England</hi> be deſtroyed, is is thought that pride will be a great cauſe of its Ruine; for how do our La<g ref="char:EOLhyphen"/>dys and great Ones invent new faſhions, ſome muſt go with powdered hair, ſome with ſpotted faces, and ſome again with high heads, ſo that they appear more like <hi>Mooriſh</hi> Dancers than like ſober devout Chriſtians. But ſome will be ready to ſay that pride lyes not in the dreſs, but in the heart. To this I anſwer, that as meat may be known whe<g ref="char:EOLhyphen"/>ther it be ſweet or ſower by the taſt, even ſo pride in the heart does often diſcover it ſelf by the outward geſtures of the body. O let the great ones of this Land have a care that they do not lye under that threatning denounced againſt proud perſons, <hi>Iſa.</hi> 3. from ver. 16. to the end, <hi>That be<g ref="char:EOLhyphen"/>cauſe the Daughters of</hi> Zion <hi>are haughty, and walk with ſtretched forth weeks, walking and mincing as they go, and making a tinckling with their feet, there<g ref="char:EOLhyphen"/>fore in that day the Lord will take away their bravery, their chains, braſless and mufflers; their Rings and changable ſuits of Apparel, their mantles, wimples, and criſping pins, their glaſſes, fine linnen hoods and vails, &amp;c.</hi> But this is not all, there is a worſer judgment threatened in the two laſt verſes: <hi>Their Men ſhall fall by the ſword, and their mighty Men in War, &amp;c.</hi> O that the Inhabitants of this nation would break off this ſin by Repentance, leaſt the like Judgment ſhould ſpeedily fall upon them, for
+<pb n="20" facs="tcp:35906:11"/>ſure pride is a great ſin that hinders good things from us.</p>
+            <p>
+               <hi>Seventhly,</hi> and laſtly, I will name but one Nati<g ref="char:EOLhyphen"/>onal Sin more that with-holds good things from us, and that is Sabbath-breaking, and this is a ſin that reigns very much in this land, tho 'there has been good and wholeſome Laws, ſet out by Act of Parliament, againſt the common prophanation of the Lord's day, yet I think the generality of peo<g ref="char:EOLhyphen"/>ple now a days do but little regard either the laws of God or Man, and a great many there be, tho they dare not work at their callings on the Lords day, yet they will beſure to chuſe that day above all the reſt, to go and viſit their friends, and to make merry amongſt their ſinful Companions, and ſometimes ride abroad about unneceſſary <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ineſs, becauſe they cannot ſpare time on other days. O how careful are a great many to piſe early on the week days, and work later than ordinarily on Saturday nights, thinking that when the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords day comes then they may that morning reſt them<g ref="char:EOLhyphen"/>ſelves in their beds, never conſidering to what end that day was given them, nor what is to be done on that day, and when the King and Parlia<g ref="char:EOLhyphen"/>ment was graciouſly pleaſed to ſet a part days of faſting and humiliation for the ſins of the nation, that by faſting and praying God might avert and remove thoſe judgments that bang over our heads, yet theſe days were but little minded by a great many, for when a faſt day came, they could not ſpare time from their worldly imployments to at<g ref="char:EOLhyphen"/>tend on God in publick, and many others tho' they do go to church, as ſoon as publick exerciſe is end<g ref="char:EOLhyphen"/>ed
+<pb n="21" facs="tcp:35906:11"/>away they go to the Ale-houſe to drinking; thus they ſeem to keep a faſt, but it is but a mock faſt, inſtead of keeping that day in offering up un<g ref="char:EOLhyphen"/>to God an humble and contrite heart-for their ſins, and the ſins of the nation, and importuning of God, by their earneſt prayers, to remove thoſe Judgments which hang over their heads; inſtead of that they muſt go to ſatisfying of their luſt. Ah ſinful people, ah nation laden with iniquity, will you thus continue to provoke the Lord at all times, will not the Lord be avenged on ſuch doings as theſe? but praiſed be the Lord, that there are ma<g ref="char:EOLhyphen"/>ny in this nation, that do keep a ſincere faſt unto the Lord, and by their fervent and hearty prayers ſtand in the gap, and ſtop God s Judgments from falling upon this ſinful nation, otherwiſe, <hi>Woe had it been to us long before this time.</hi> Beioved people you that are the inhabitants of this land, if our <hi>gracious King</hi> and <hi>Governours</hi> will be pleaſed to ſet a part at any time another day of <hi>humiliation,</hi> for the Lords ſake let me prevail with you to ſpend that oue day wholly in <hi>exainining</hi> your <hi>hearts</hi> and <hi>lives,</hi> in <hi>confeſſing,</hi> and <hi>mourning</hi> for your ſins, and for the ſins of the nation, and <hi>reſolving</hi> to break off your ſins by <hi>repentance,</hi> as the people of <hi>N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nive</hi> did that God may yet turn away from the ſierceneſs of his wrath that we periſh not.</p>
+            <p>
+               <hi>A word or two of Application and I have done.</hi>
+            </p>
+            <p>Beloved Friends, you have ſeen here what thoſe ſins are that with-hold <hi>good things</hi> from us, &amp; not only ſo, but pulls down <hi>moſt heavy judgments upon our heads,</hi> and I think theſe ſins never ſo much a<g ref="char:EOLhyphen"/>bounded in this nation as they <hi>do now,</hi> never was
+<pb n="22" facs="tcp:35906:12"/>there ſo much <hi>ſwearing, lying, oppreſſion, cheating, pride, drunkenneſs,</hi> and <hi>Sabbath-breaking,</hi> as there reigns among us now in theſe days. <hi>Beloved Friends</hi> for the Lords ſake, let us ſet upon the reforming of theſe ſins, &amp; break them off by a <hi>timely repentance,</hi> I ſay for the Lords ſake, who is ſtill patient, and is loath to ſtrike, but forbears to the very utmoſt, if it may be that we will yet turn to him; methinks the Lord at this day is bemoaning <hi>England,</hi> as once before I told you he bemoan'd <hi>Ephraim: How ſhall I give thee up</hi> England? <hi>how ſhall I deliver thee up into the hands of thy Enemys? O that thou wouldeſt once reform and amend, that my wrath may not yet break forth againſt thee.</hi> Conſider how the Lord hath timely given us warning by his word, by ſigns and by his ſervants, and ſtill he forbears to ſtrike, and ſhall not we yet take warning until <hi>deſtruction</hi> comes at our backs? O for the Lords ſake <hi>reform</hi> &amp; <hi>amend,</hi> if not for the Lords ſake, yet let us do it for our own ſakes, nay for the nations ſake; what pitty is it that we ſhould by our ſins pull down <hi>ven<g ref="char:EOLhyphen"/>geance</hi> upon the whole nation; nay laſtly, Friends, let us all be prevailed with to break off our ſins by repentance, and amend our lives for the ſake of <hi>William</hi> our King and Governour. A few years ago, when we were even at the brink of utter <hi>ruine</hi> and <hi>deſtruction,</hi> and he out of tender <hi>love</hi> to theſe nati<g ref="char:EOLhyphen"/>ons, was graciouſly pleaſed to leave his habitation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Holland,</hi> and did venter thro' many <hi>difficultys</hi> &amp; <hi>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wgers,</hi> and did hazard his own life that he might <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome to deliver us from <hi>bondage</hi> and <hi>ſlavery,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et muſt we take this <hi>love</hi> and <hi>good-will</hi> ſo unkind<g ref="char:EOLhyphen"/>ly, and ſo <hi>unthankfully,</hi> ſo as to do what in us lyes
+<pb n="23" facs="tcp:35906:12"/>by our ſins and iniquities to pull down <hi>Gods judg<g ref="char:EOLhyphen"/>ments</hi> upon his head and the whole nation beſides, O what a dreadful thing this is to conſider of. Friends, we have provoked God ſo much by our ſins, that God has threatened ſeveral times to re<g ref="char:EOLhyphen"/>move him from us; how often has he been very near to have been ſhot, and yet for our ſakes he preſerved him, and praiſed be his name ſtill pre<g ref="char:EOLhyphen"/>ſerves &amp; ſhields him from the hands of his enemies. It was but a little before the Queens death that there was a day of thankſgiving appointed for the Kings return home, which was on the Sabbath-day, but O how ſad it was to behold how the Lord's day was profaned, in many Towns and Citys, by Ringing, ſhouting, and making of bonfires; but alas! <hi>how ſoon was</hi> this our <hi>mirth</hi> and <hi>jollitry</hi> turn'd into <hi>mourning;</hi> and truly friends, I cannot out look upon the death of our <hi>gracious Queen, which hap<g ref="char:EOLhyphen"/>pen'd ſoon after,</hi> no other wiſe than as part of Gods juſt Judgments to this nation, as for their many other <hi>provocations,</hi> ſo-particularly for that one a<g ref="char:EOLhyphen"/>buſe of the Lord's day, and yet <hi>people will take no warning,</hi> but run on ſtill in the ſame prophanation of the Lord's day: beloved Friends, and inhabi<g ref="char:EOLhyphen"/>tants of this nation, <hi>we have,</hi> if I may ſo ſpeak, <hi>but one ſtring to our how,</hi> and if the Lord ſhould be <hi>pro<g ref="char:EOLhyphen"/>voked</hi> by our ſins, by any means, to remove from us our <hi>gracious King,</hi> what can <hi>we look for then</hi> but utter Ruine and Deſtruction: my Friends, if ever the King and Parliament ſhould appoint at any time another day of thankſgiving, he exhorted to ſpend it in <hi>publick prayers</hi> and <hi>praiſes,</hi> &amp; the reſt of the day ſpend both in <hi>meditating,</hi> and alſo in <hi>diſ<g ref="char:EOLhyphen"/>courſing</hi>
+               <pb n="24" facs="tcp:35906:13"/>one another concerning God's <hi>wonderful works,</hi> his <hi>mercies,</hi> and <hi>miraculous deliverances</hi> in all Ages of the world, particularly of our <hi>Redemption</hi> by Chriſt, and of God's mercys to this nation. And towards the end of the day, let it be concluded in reading in your familys, in expounding, in ſinging Pſalms, in praying and praiſes; now a day thus ſpent, would reſemble the life of the Saints in Hea<g ref="char:EOLhyphen"/>ven. If, this day of thankſgiving be on the Lord's day, for the Lord's ſake do not prophane it by drinking, ringing, ſhouting, and bonnring, as the cuſtom has been, and if our Rulers would be plea<g ref="char:EOLhyphen"/>ſed to ſet a part a day in the week time, which I think moſt convenient, pray let it not be ſpent in ſuch vanity and ſooleries, but in ſpiritual exerciſes, and what money you intend to beſtow in drinking and ringing, and faggots, you intend to give to be conſumed in bonfires, be exhorted to offer up theſe as a thankſgiving offering to God, by be<g ref="char:EOLhyphen"/>ſlowing them upon the poor and needy, to feed and warm them; with ſuch ſacrifice God will be well pleaſed, ſuch a thanks offering as this, will a<g ref="char:EOLhyphen"/>ſcend up as a ſweet ſavour unto God, whereby God's <hi>wrath</hi> will be pacified, and will remove his Judgments from us, and delight to do us good. To conclude, let us be exhorted to break off our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ins by repentance, and to amend our lives, &amp; then God will bleſs and proſper our King, and the whole nation, and deliver us from all our Ene<g ref="char:EOLhyphen"/>mies, then we ſhall yet ſee Happy Days, <hi>and</hi> be bleſt with a laſting Peace <hi>and</hi> Plenty: Which the <hi>Lord</hi> of his Inſinite Mercy grant, <hi>Amen.</hi>
+            </p>
+            <pb facs="tcp:35906:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
